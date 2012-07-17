@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sqlplus-perftest
+Bundle-SymbolicName: de.keithpaterson.sqlplus-perftest; singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: de.keithpaterson.sqlplus_perftest.Activator
+Bundle-Vendor: Keith Paterson
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
