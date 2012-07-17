@@ -1,4 +1,4 @@
-package de.keithpaterson.sqlplus_perftest;
+package de.keithpaterson.sqliteperftest;
 
 import org.eclipse.jface.resource.ImageDescriptor;
 import org.eclipse.ui.plugin.AbstractUIPlugin;

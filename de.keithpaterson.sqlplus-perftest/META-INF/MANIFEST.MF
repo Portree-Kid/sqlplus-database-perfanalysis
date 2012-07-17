@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Sqlplus-perftest
-Bundle-SymbolicName: de.keithpaterson.sqlplus-perftest; singleton:=true
+Bundle-SymbolicName: de.keithpaterson.sqliteperftest;singleton:=true
 Bundle-Version: 0.0.1.qualifier
-Bundle-Activator: de.keithpaterson.sqlplus_perftest.Activator
+Bundle-Activator: de.keithpaterson.sqliteperftest.Activator
 Bundle-Vendor: Keith Paterson
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime

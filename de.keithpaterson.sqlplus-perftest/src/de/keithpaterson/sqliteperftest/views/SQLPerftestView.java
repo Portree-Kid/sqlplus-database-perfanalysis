@@ -1,4 +1,4 @@
-package de.keithpaterson.sqlplusperftest.views;
+package de.keithpaterson.sqliteperftest.views;
 
 
 import org.eclipse.swt.widgets.Composite;
